@@ -10,3 +10,9 @@ int getDat(){
     scanf("%d",&a);
     return a;
 }
+
+struct Node{
+    int a;
+    int b;
+    int c;
+};
