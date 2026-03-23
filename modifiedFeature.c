@@ -5,13 +5,6 @@ struct Node{
     struct Node * next;
 };
 
-struct DataBank{
-    int a;
-    int b;
-    int c;
-};
-
-
 
 
 void modifiedFeature(int a){
